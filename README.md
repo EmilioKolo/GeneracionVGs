@@ -3,7 +3,6 @@
  ___
  Generates all of the possible genetic variants for an exon/protein sequence
 
-Script creado en junio de 2020, subido a GitHub en febrero de 2024
 
-La función corre desde main.py
-Recibe una secuencia de aminoácidos y la secuencia de los exones que codifican para los aminoácidos y, en base a eso, genera todas las variantes missense posibles con un cambio en un nucleótido. Gran parte de la funcionalidad está hardcodeada.
+[![en](https://img.shields.io/badge/lang-EN-green.svg)](https://github.com/EmilioKolo/GeneracionVGs/blob/main/README.en.md)
+[![es](https://img.shields.io/badge/lang-ES_latam-blue.svg)](https://github.com/EmilioKolo/GeneracionVGs/blob/main/README.es.md)
