@@ -1,9 +1,8 @@
 # GeneracionVGs
  Genera todas las variantes genicas posibles para una combinación de secuencias exón/proteína
- ___
- Generates all of the possible genetic variants for an exon/protein sequence
 
 Script creado en junio de 2020, subido a GitHub en febrero de 2024
 
 La función corre desde main.py
+Los comentarios del código están en español
 Recibe una secuencia de aminoácidos y la secuencia de los exones que codifican para los aminoácidos y, en base a eso, genera todas las variantes missense posibles con un cambio en un nucleótido. Gran parte de la funcionalidad está hardcodeada.
